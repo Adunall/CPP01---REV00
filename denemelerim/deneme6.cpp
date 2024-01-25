@@ -1,6 +1,6 @@
 
 #include <iostream>
-
+//this trying showns diamond problem pure phase. this gives not output and we seeing to fault case.
 class a {
     public:
         a(){ std::cout << "a sınıfı" << std::endl;}
