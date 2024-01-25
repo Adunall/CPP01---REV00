@@ -1,6 +1,8 @@
 
 #include <iostream>
-
+//I indicated diamond problem in there.
+//The solution is prevent to duplicate a class inheritance. b & c class are inheratance created from "a" class and first point is this.
+//d class wants to repeat inherit to "a". And this this wrong status. For prevent we can make some classes inheritance "virtual".
 class a {
     public:
     int x;
